@@ -1,5 +1,5 @@
 # gender-bias-removal
-<Removing gender bias present in Bollywood movie scripts.> 
+Removing gender bias present in Bollywood movie scripts.
 
 # Documentation
 The ideation document <br/>
