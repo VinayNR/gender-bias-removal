@@ -1,0 +1,29 @@
+Nurse
+Receptionist
+Assistant
+Secretary
+School Teacher
+Teacher
+Cashier
+Salesgirl
+Waitress
+Waiter
+Maid
+Housekeeper
+Cleaner
+Sweeper
+Child care worker
+Clerk
+Accountant
+Bookkeeper
+Cook
+Chef
+Teaching Assistant
+Personal Aid
+Housewife
+Homemaker
+Masseuse
+Beautician
+Make up artist
+Librarian
+Prostitute

@@ -1,0 +1,31 @@
+Driver
+Truck driver
+Bus driver
+Van driver
+Policeman
+Fireman
+Soldier
+Militant
+Escort
+Headmaster
+Professor
+Bartender
+Sportsman
+Rockstar
+Mechanic
+Army general
+Politician
+Lawyer
+Surgeon
+Pilot
+Architect
+Carpenter
+Mason
+Electrician
+Plumber
+Entrepreneur
+Magician
+Juggler
+Police officer
+General manager
+Vice President
